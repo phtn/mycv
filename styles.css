@@ -1,0 +1,50 @@
+.profile-icons {
+	color: #999;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.name {
+	margin-top: 3px;
+	color: #555;
+	margin-left: 0px;
+	font-family: "Open Sans";
+	font-weight: 400;
+	font-size: 1em;
+}
+.info {
+	font-family: "Open Sans";
+	font-weight: 300;
+	color: #444;
+}
+
+.top {
+	margin-top: 10px;
+	border-left: 5px solid #062f3c;
+	padding-left: 15px;
+}
+.person {
+	color: #999;
+}
+.prefix-icons {
+	color: #b4a996;
+	margin-right: 5px;
+}
+.cat {
+	background-color: #b4a996;
+	border: none !important;
+	font-family: 'Open Sans';
+	font-weight: 400;
+}
+.li-p {
+	margin-left: 20px;
+}
+.li-p2 {
+	display: inline !important;
+	margin-right: 5px;
+}
+li {
+	color: #062f3c;
+}
+ul {
+	border-top: 0px !important;
+}
